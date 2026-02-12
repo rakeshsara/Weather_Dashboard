@@ -1,1 +1,1 @@
-A simple Weather Dashboord using internal CSS and JAVASCRIPT
+A simple Weather Dashboard using internal CSS and JAVASCRIPT
